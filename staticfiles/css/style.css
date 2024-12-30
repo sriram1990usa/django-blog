@@ -1,17 +1,16 @@
 body {
-    background-color: #b61929;
+    background-color: #4ad674;
     color: white;
     margin: 0;
     padding: 0;
 }
 
 h1 {
-    text-align: center;
-    color: #ff6600;
+    text-align: center
 }
 
 a {
-    text-decoration-color: #96b412;
+    text-decoration-color: #00ffff;
     color: #ff6600;
 }
 
